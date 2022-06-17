@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkA8T9TsF101iuLogLprQ16yVL5vU25aa7RzLkJL5CUcjJyJoewNc1UGvWkIxOYXkT9eCzquc04hUBiagHRJEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saege\\source\\repos\\GitShortcuts\\GitShortcuts\\GitShortcuts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saege\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Saege\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Saege\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Saege\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
