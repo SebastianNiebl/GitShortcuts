@@ -7,7 +7,10 @@ namespace GitShortcuts
         static void Main(string[] args)
         {
             GitWrapper g = new();
-            Console.WriteLine(g.GetCurrentBranch());
+            string b = g.GetCurrentBranch();
+            g.Checkout("main");
+            g.Merge(b);
+            g.Checkout(b);
         }
     }
 }
